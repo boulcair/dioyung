@@ -1,8 +1,9 @@
 <style>
       .greyheader {
 	 font-size: 300%;
-	 font-color: #B7B7B7;
-      }
+	 background-color: #B7B7B7;
+	 border: 2px solid #B7B7B7;      
+}
       
       #
 
