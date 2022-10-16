@@ -1,34 +1,36 @@
 <style>
-		body {
-			height: 100%;
-			margin: 0;
+			body {
+				 background:	#F5D6B4;
+             			 margin-top:         0;
+             			 margin-left:      100;
+			
 }
 
 
-		#h1	{
-			font-family: courier;
+			#h1 {
+				font-family: courier;
 }
 
-		#greyheader {
-			height: 150px;
-			width: 100%;
-			background: grey;
-			border: 2px solid grey;
+			#greyheader {
+				height: 150px;
+				width: 100%;
+				background: grey;
+				border: 2px solid grey;
 }
 
-		#logo	{
-			height: 100%;
-			width: 100%;
+			#logo	{
+				height: 100%;
+				width: 100%;
 			
 			
 			.button {
- 			 font: bold 11px Arial;
- 			 text-decoration: none;
- 			 background-color: linear-gradient(<angle>, color1 color1-stop-at, color2 color2-start-at);
-			 color: #333333;
- 			 height: 100%;
-			 width: 100%;
-  
+ 				 font: bold 11px Arial;
+ 				 text-decoration: none;
+ 				 background-color: linear-gradient(<angle>, color1 color1-stop-at, color2 color2-start-at);
+				 color: #333333;
+ 				 height: 100%;
+				 width: 100%;
+  	
 }
 			
 			img {
@@ -36,4 +38,35 @@
 				margin-left: 75px;
 				margin-right: 50%;
 }	
+			div {
+					width:					150px;
+					height:			 	   	 50px; 
+					background:			      #dd6b4d;
+}
+  
+			.A {
+           			position:        		absolute;
+				width: 				100px;
+				height:				100px;
+				border-radius:       		50%;
+            			margin-left:			80;
+            			margin-top:			85;
+}
+  
+			.B {   
+           			position:        		absolute;
+            			width: 				100px;
+				height:				100px;
+				border-radius:	      		50%;
+      				margin-top:           		115;	
+}	
+		
+  			.cylinder {
+            			position:		     absolute;
+				width:				170px;
+				height:				 50px;
+				border-radius:	        	 50px;
+            			margin-left:            	   30;
+            			margin-top:             	  165;
+}
 	</style>
